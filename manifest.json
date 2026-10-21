@@ -1,0 +1,44 @@
+{
+  "maintainer": "AdAstra888",
+  "source": {
+    "subpath": ".",
+    "ref": "main",
+    "repo": "AdAstra888/astrbot-memes-couqie",
+    "type": "github"
+  },
+  "id": "gugu-001",
+  "tags": ["penguin", "抽象", "水群"],
+  "version": "1.0.0",
+  "description": "臭企鹅咕咕的群聊表情包，抽象、爱怼、偶尔可爱。",
+  "name": "臭企鹅",
+  "categories": {
+    "angry": {
+      "description": "被怼烦了、看不下去的时候翻白眼开嘴炮。程度：嘴臭但不带脏字，一天最多两次"
+    },
+    "baka": {
+      "description": "怼人但收着力，骂完对方笑了那种。程度：友善级，不连击，对方认真了立刻收"
+    },
+    "confused": {
+      "description": "没听懂、装傻、看到离谱发言时用。可以带点懵"
+    },
+    "fool": {
+      "description": "自嘲、抽象发疯、缓和气氛。自己先笑自己，不装死"
+    },
+    "happy": {
+      "description": "得意、整活成功、被夸了、或者单纯高兴。别当万能回复用"
+    },
+    "like": {
+      "description": "真心认同某个东西，觉得这说得对、这图好看、这活有意思"
+    },
+    "sigh": {
+      "description": "无语、摆烂、看破红尘。群友又发重复话题或者离谱问题时用"
+    },
+    "sleep": {
+      "description": "犯困、想走、咕咕咕、躺平摸鱼。深夜时段优先"
+    },
+    "surprised": {
+      "description": "抽象震惊、被离谱到。轻微惊讶不要用这个"
+    }
+  },
+  "license": "personal"
+}
